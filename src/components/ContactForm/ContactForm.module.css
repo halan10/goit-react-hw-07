@@ -1,0 +1,23 @@
+.form {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 350px;
+  list-style: none;
+  flex-wrap: wrap;
+  grid-column-start: 1;
+}
+.btnAdd {
+  margin-bottom: 16px;
+  background-color: grey;
+  color: azure;
+}
+.field {
+  border-radius: 8px;
+  height: 24px;
+}
+.error {
+  color: red;
+  text-wrap: wrap;
+}

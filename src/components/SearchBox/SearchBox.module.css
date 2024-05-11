@@ -1,0 +1,11 @@
+.searchForm {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-bottom: 16px;
+}
+.field {
+  border-radius: 8px;
+  height: 24px;
+}
